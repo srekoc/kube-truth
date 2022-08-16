@@ -4,7 +4,7 @@ Application "wonderful" is running in default Namespace.
 
 You can call the app using `curl wonderful:30080 `.
 
-The application YAML is available at `/wonderful/init.yaml` .
+The application YAML is `blue-deploy-v1.yaml` .
 
 The app has a Deployment with image `httpd:alpine` , but should be switched over to `nginx:alpine` .
 
