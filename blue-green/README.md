@@ -35,7 +35,7 @@ And because of an entry in /etc/hosts we can call:
 
 ```curl wonderful:30080```
 
-####Tip
+#### Tip
 
 The idea is to have two Deployments running at the same time, one with the old and one with the new image.
 
